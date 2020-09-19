@@ -1,0 +1,129 @@
+body {
+    background-color: #D5D5D5;
+}
+
+.main {
+    background-color: #FFFFFF;
+    width: 1200px;
+    height: 1780px;
+    margin-bottom: 20px;
+    padding: 0px;
+    border: 2px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    border-radius: 50%;
+    width: 350px;
+    margin-left: 140px;
+    margin-top: 40px;
+}
+
+h1 {
+    font-size: 40pt;
+    font-family: 'Audiowide', cursive;
+    position	: absolute;
+    top		: 645px;
+    margin-left		: 70px;
+    /*width		: 100%; */
+}
+
+h2 {
+    font-size: 16pt;
+    font-family: 'Audiowide', cursive;
+    color: rgb(0, 0, 122);
+}
+
+h3 {
+    font-size: 15pt;
+    font-family: 'Audiowide', cursive;
+    position	: absolute;
+    top		: 745px;
+    margin-left		: 70px;
+}
+
+h4 {
+    font-size: 13pt;
+    font-family: 'Roboto', sans-serif;
+}
+
+h5 {
+    font-size: 11pt;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+hr {
+    border: none;
+    background-color: #000000;
+    color: #000000;
+    height: 2px;
+}
+
+
+       .first {
+          /* background-color: #F0F0F0; */
+          background-color: #F0F0F0;
+          width: 465px;
+          height: 1650px;
+
+          margin-top: 95px;
+          margin-left: 100px;
+          float: left;
+       }
+
+.about {
+    padding-top: 220px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.english {
+    padding-top: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.code {
+    padding-top: 40px;
+}
+
+.experience {
+    padding-top: 40px;
+}
+
+.education {
+    padding-top: 40px;
+}
+
+.little_block {
+    padding-top: 5px;
+}
+
+.second {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(255, 255, 255);
+    width: 430px;
+    margin-top: 90px;
+    margin-right: 50px;
+    border: 2px;
+    float: right;
+}
+
+       span {
+           font-family: 'Roboto', sans-serif;
+           margin-left: 45px;
+           color: rgb(150, 150, 150);
+           font-size: 16pt;
+       }
+
+       .icons {
+         width: 30px;
+         margin-top: 30px;
+         margin-left: 30px;
+
+       }
+
