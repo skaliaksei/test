@@ -1,1 +1,1 @@
-## https://skaliaksei.github.io/test/cv
+## https://skaliaksei.github.io/test/
